@@ -19,3 +19,10 @@ então como prova de que o codigo é funcional eu simulei prints de como ele se 
 e durante o projeto o vs code nao acusou erro na conclusao
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5a1fc711-0f14-4b3e-b725-bdeeb3f93d27" />
 no navegador é para aparecer como está acima e no terminal é para aparecer como está abaixo
+
+docker-compose build
+
+docker-compose up --build 
+
+use os dois comandos acima para rodar o codigo
+
