@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pBKCCsfMYuycw36VcEY8op5SABxqVSlpG0wZhlblg7U=",
+  "Source": "WebServiceLivros",
+  "BasePath": "_content/WebServiceLivros",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
