@@ -12,6 +12,8 @@ target frontend: failed to receive status: rpc error: code = Unavailable desc = 
  > [backend build 2/6] WORKDIR /src:
 ------
 target frontend: failed to solve: Unavailable: error reading from server: EOF
+
 assim por diante.
+
 então como prova de que o codigo é funcional eu simulei prints de como ele se comporta,
 e durante o projeto o vs code nao acusou erro na conclusao
